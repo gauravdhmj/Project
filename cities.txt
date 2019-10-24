@@ -1,0 +1,10 @@
+2 multiply 1 is equal to 2
+2 multiply 2 is equal to 4
+2 multiply 3 is equal to 6
+2 multiply 4 is equal to 8
+2 multiply 5 is equal to 10
+2 multiply 6 is equal to 12
+2 multiply 7 is equal to 14
+2 multiply 8 is equal to 16
+2 multiply 9 is equal to 18
+2 multiply 10 is equal to 20
